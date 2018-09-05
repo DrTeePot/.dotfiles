@@ -57,6 +57,9 @@ Plugin 'unblevable/quick-scope'
 " Use editorconfig files if found
 Plugin 'editorconfig/editorconfig-vim'
 
+" ****** INCONVINIENCE **********
+Plugin 'kbarrette/mediummode'
+
 "****** CODE COMPLETION ********
 " TODO remove YouCompleteMe, look into deocomplete
 " On servers, probably want to just use ervandew/supertab since it's
